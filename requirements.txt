@@ -1,7 +1,7 @@
 uproot
-uproot4==0.0.8
-awkward1
-histoprint
+awkward
+vector
+hist
 matplotlib
 mplhep
 numpy

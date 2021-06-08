@@ -1,0 +1,13 @@
+uproot
+uproot4==0.0.8
+awkward1
+histoprint
+matplotlib
+mplhep
+numpy
+pandas
+numba
+particle
+pyyaml
+lz4
+xxhash

@@ -1,0 +1,15 @@
+name: 2021-06-14-uproot-awkward-columnar-hats
+channels:
+  - conda-forge
+dependencies:
+  - uproot
+  - awkward
+  - pyarrow
+  - numpy
+  - matplotlib
+  - hist
+  - numba
+  - root
+  - pip
+  - pip:
+      - particle

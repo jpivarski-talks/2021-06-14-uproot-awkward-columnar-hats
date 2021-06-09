@@ -6,6 +6,7 @@ dependencies:
   - awkward
   - pyarrow
   - numpy
+  - scipy
   - matplotlib
   - hist
   - numba

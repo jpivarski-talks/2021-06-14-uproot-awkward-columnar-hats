@@ -11,7 +11,7 @@ Run the JupyterLab code with us, altering examples and asking "what if" question
 The preferred way to run these notebooks is through a public cloud service called Binder:
 
 <p align="center">
-  <a href="https://mybinder.org/v2/gh/jpivarski-talks/2021-06-14-uproot-awkward-columnar-hats/1.0?urlpath=lab">
+  <a href="https://mybinder.org/v2/gh/jpivarski-talks/2021-06-14-uproot-awkward-columnar-hats/v1.1?urlpath=lab">
     <img src="https://mybinder.org/badge_logo.svg" alt="Launch Binder" height="40">
   </a>
 </p>

@@ -10,10 +10,10 @@ dependencies:
   - pandas==1.2.4
   - hist==2.3.0
   - numba==0.53.1
+  - xrootd==5.2.0
   - root==6.22.8
   - pip==21.1.2
   - pip:
       - particle==0.12.0
       - uproot==4.0.9
       - vector==0.8.3
-      - xrootd==5.2.0
